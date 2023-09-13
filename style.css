@@ -38,9 +38,9 @@
     display: flex;
     justify-content: flex-end;
     background:
-    url('../images/illustration-woman-online-desktop.svg') bottom 3.1rem left -5.1rem no-repeat,
-    url('../images/bg-pattern-desktop.svg') bottom -10rem left -36rem no-repeat;
-    background-color: white; 
+    url('../images/illustration-woman-online-desktop.svg') bottom  left  no-repeat;
+    background-size: 3.1rem  -5.1rem;
+    background: url('images/bg-pattern-desktop.svg') bottom -10rem left -36rem no-repeat;
   }
   
   
